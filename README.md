@@ -1,2 +1,2 @@
 # Calculus
-Calculus-II notes for second semester
+Calculus-II python code for second semester
